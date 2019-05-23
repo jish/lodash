@@ -14,6 +14,7 @@
  * // => false
  */
 function isNull(value) {
+  // Some awesome change
   return value === null
 }
 
